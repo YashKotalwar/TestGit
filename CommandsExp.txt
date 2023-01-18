@@ -1,0 +1,2 @@
+git remote add origin paste_url
+git remote -v
